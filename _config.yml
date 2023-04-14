@@ -54,11 +54,10 @@ header_pages:
  - https://github.com/cuongitl/pyftx
 
 
-binance_url: https://partner.bitget.com/bg/5TN49R
-kucoin_url: https://signal.lecuong.info/s/bnb
+binance_url: https://signal.lecuong.info/s/bnb
+bitget_url: https://partner.bitget.com/bg/5TN49R
 
-python_binance_url: https://github.com/cuongitl/python-bitget
-python_kucoin_url: https://github.com/cuongitl/pyftx
+python_bitget_url: https://github.com/cuongitl/python-bitget
 
 USDT(TRC20):  TSLE4b1VhkNZQ6YLnusq2XJzTykzeeUupD
 # Build settings
