@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Crypto Exchange Python Programming Blog
+title: NinjaTrader Blog
 email: #
 author: Cuongitl
 author-img: profile-img.jpeg # add your photo
@@ -32,7 +32,7 @@ reddit_username:  cuongitl
 
 site-twitter: #if your site has a twitter account, enter it here
 
-about-author: I am a developer focusing on python development. Author of many crypto exchange libraries. Always hungry to keep learning. # add description
+about-author: NinjaTrader for beginners Blog. # add description
 social-twitter: cuongitl
 social-facebook: # add your Facebook handle
 social-github: cuongitl # add your Github handle
