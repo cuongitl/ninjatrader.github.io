@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NinjaTrader Desktop Installation Guide"
+title: "Hướng dẫn đăng ký và cài đặt NinjaTrader 8"
 date:   2023-04-13 17:07:16 +1100
 categories: ninjatrader
 description: NinjaTrader Desktop Installation Guide
@@ -10,17 +10,20 @@ tags: [ninjatrader, setup]
 redirect_from:
   - /ninjatrader/2023/04/13/ninjatrader-setup.html
 ---
-This article outlines how to begin trading with NinjaTrader Desktop platform.
+Bài viết này tóm tắt các bước đăng ký, tải phần mềm, cài đặt và kết nối tài khoản NinjaTrader 8.
 
-* Register an account
-* Installation
-* Connected to live data
+* Đăng ký tài khoản
+* Các bước cài đặt
+* Kết nối tài khoản vào phần mềm NinjaTrader
 
-### Register an account
+### ĐĂNG KÝ TÀI KHOẢN
 
-* [Register an account](https://support.ninjatrader.com/s/article/How-Can-I-Get-a-Free-Trial-of-NinjaTrader?language=en_US)
+* [Hướng dẫn đăng ký](https://support.ninjatrader.com/s/article/How-Can-I-Get-a-Free-Trial-of-NinjaTrader?language=en_US)
 
-### Installation Steps
+* Lưu ý: khi đăng tk mới, chỉ có email cần gõ đúng, còn tên/sđt thì gõ đại cũng được.  Tài khoản NinjaTrader này cho phép dùng 14 ngày.
+
+
+### CÁC BƯỚC CÀI ĐẶT
 
 * [Log in](https://account.ninjatrader.com/welcome) to your NinjaTrader account.
 
