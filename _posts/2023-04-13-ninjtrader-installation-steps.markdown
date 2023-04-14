@@ -24,16 +24,27 @@ you may not satisfy the MIN_NOTIONAL etc.
 
 There are a number of other filters, for this post I'm going to focus on the filters related to the Spot market.
 
+
+### Register an account
+
+* [Register an account](https://support.ninjatrader.com/s/article/How-Can-I-Get-a-Free-Trial-of-NinjaTrader?language=en_US)
+
 ### Installation Steps
 
-1/ [Register an account](https://support.ninjatrader.com/s/article/How-Can-I-Get-a-Free-Trial-of-NinjaTrader?language=en_US)
+* [Log in](https://account.ninjatrader.com/welcome) to your NinjaTrader account.
 
-2/ [Register an account](https://support.ninjatrader.com/s/article/How-Can-I-Get-a-Free-Trial-of-NinjaTrader?language=en_US)
+
+    If you have an existing license you can import it by going to Settings, Plans, and then selecting Import a License. 
+    If you are upgrading NinjaTrader, you can skip this step and it will automatically be imported once upgraded.
+
+* Select [Download](https://account.ninjatrader.com/download) on the left menu then download and install NinjaTrader
+
+### Connection Guides
+* [Connecting to Your Account](https://support.ninjatrader.com/s/article/Connecting-to-Your-Account-NinjaTrader-Desktop?language=en_US)
 
 
 ### Next Steps
 
-Hopefully this has helped demystify some of the terminology that you will see when interacting with the 
-exchange, and you now have some tools to handle price and quantity parameters when trading.
+Let's trade!
 
 
