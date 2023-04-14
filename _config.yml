@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Crypto Exchange Python Programming Blog
-email: hello@cuongitl.net
-author: Sam McHardy
+email: #
+author: Cuongitl
 author-img: profile-img.jpeg # add your photo
 description: >- # this means to ignore newlines until "baseurl:"
   Examples to use python with Binance, Kucoin and IDEX crytocurrency exchanges.
