@@ -14,59 +14,53 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Crypto Exchange Python Programming Blog
-email: hello@sammchardy.net
+email: hello@cuongitl.net
 author: Sam McHardy
 author-img: profile-img.jpeg # add your photo
 description: >- # this means to ignore newlines until "baseurl:"
   Examples to use python with Binance, Kucoin and IDEX crytocurrency exchanges.
   Async programming, spot, futures and margin trading.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://sammchardy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://cuongitl.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: ':title/'
-twitter_username: sammchardy
+twitter_username: cuongitl
 twitter:
-  username: sammchardy
-github_username:  sammchardy
-telegram_username:  sammchardy
-reddit_username:  sammchardy
+  username: cuongitl
+github_username:  cuongitl
+telegram_username:  cuongitl
+reddit_username:  cuongitl
 
 site-twitter: #if your site has a twitter account, enter it here
 
 about-author: I am a developer focusing on python development. Author of many crypto exchange libraries. Always hungry to keep learning. # add description
-social-twitter: sammchardy
+social-twitter: cuongitl
 social-facebook: # add your Facebook handle
-social-github: sammchardy # add your Github handle
-social-linkedin: sammchardy
-social-email: hello@sammchardy.net
+social-github: cuongitl # add your Github handle
+social-linkedin: cuongitl
+social-email: cuongitl.b@gmail.com
 
 analytics: UA-112162600-1 # Google Analytics
 google_analytics: UA-112162600-1
 
 social:
-  name: Sam McHardy
+  name: Cuongitl
   links:
-    - https://twitter.com/sammchardy
-    - https://github.com/sammchardy
-    - https://t.me/sammchardy
+    - https://twitter.com/cuongitl
+    - https://github.com/cuongitl
+    - https://t.me/cuongitl
 
 header_pages:
- - https://github.com/sammchardy/python-binance
- - https://github.com/sammchardy/python-kucoin
+ - https://github.com/cuongitl/python-bitget
+ - https://github.com/cuongitl/pyftx
 
 
-binance_url: https://www.binance.com/en/register?ref=KNNBYWG8
-kucoin_url: https://www.kucoin.com/ucenter/signup?rcode=E42cWB
-idex_url: https://idex.market
+binance_url: https://partner.bitget.com/bg/5TN49R
+kucoin_url: https://signal.lecuong.info/s/bnb
 
-python_binance_url: https://github.com/sammchardy/python-binance
-python_kucoin_url: https://github.com/sammchardy/python-kucoin
-python_idex_url: https://github.com/sammchardy/python-idex
+python_binance_url: https://github.com/cuongitl/python-bitget
+python_kucoin_url: https://github.com/cuongitl/pyftx
 
-eth_address: "0xD7a7fDdCfA687073d7cC93E9E51829a727f9fE70"
-ltc_address: LPC5vw9ajR1YndE1hYVeo3kJ9LdHjcRCUZ
-btc_address: 1Dknp6L6oRZrHDECRedihPzx2sSfmvEBys
-neo_address: AVJB4ZgN7VgSUtArCt94y7ZYT6d5NDfpBo
-
+USDT(TRC20):  TSLE4b1VhkNZQ6YLnusq2XJzTykzeeUupD
 # Build settings
 markdown: kramdown
 plugins:
@@ -82,7 +76,7 @@ minima:
   date_format: "%b %-d, %Y"
 
 disqus:
-    shortname: sammchardy
+    shortname: cuongitl
 
 paginate: 8
 paginate_path: "/page/:num"
