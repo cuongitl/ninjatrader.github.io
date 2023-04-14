@@ -59,7 +59,8 @@ bitget_url: https://partner.bitget.com/bg/5TN49R
 
 python_bitget_url: https://github.com/cuongitl/python-bitget
 
-USDT(TRC20):  TSLE4b1VhkNZQ6YLnusq2XJzTykzeeUupD
+USDT_TRC20:  TSLE4b1VhkNZQ6YLnusq2XJzTykzeeUupD
+BTC_address:  19rvFC79eVoCMHxJ44hB3GLhiD2HHsMJoZ
 # Build settings
 markdown: kramdown
 plugins:
